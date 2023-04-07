@@ -50,7 +50,7 @@
 
 
 
-![Raijth's GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=ashwinnmit&show_icons=true&theme=merko)
+![Ashwin's GitHub streaks](https://github-readme-streak-stats.herokuapp.com/?user=ashwinnmit&show_icons=true&theme=merko)
 
 
 
