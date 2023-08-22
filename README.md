@@ -26,6 +26,7 @@
 </p>
 
 
+<h3 align="left">Tech Stack based on Usage: </h3>
 
 
 
@@ -55,4 +56,6 @@
 
 
 
+
+[![AshwinRB's GitHub | Languages Over Time](https://stats.quine.sh/AshwinRB/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=AshwinRB)
 
